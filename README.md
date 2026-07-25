@@ -10,6 +10,7 @@
 | Day02 | static、final、枚举、封装、继承、方法重写、多态 | [Day02.md](./Day02.md) |
 | Day03 | 抽象类、接口（default/static/private）、内部类、String、StringBuilder | [Day03.md](./Day03.md) |
 | Day04 | Lambda 表达式、ArrayList 与包装类、格斗游戏项目实战（gameTest） | [Day04.md](./Day04.md) |
+| Day05 | Math/System/Object 工具类、包装类、BigDecimal、Web 前端入门（HTML/CSS/Flex） | [Day05.md](./Day05.md) |
 
 ## 学习路线
 
