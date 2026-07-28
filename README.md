@@ -11,6 +11,9 @@
 | Day03 | 抽象类、接口（default/static/private）、内部类、String、StringBuilder | [Day03.md](./Day03.md) |
 | Day04 | Lambda 表达式、ArrayList 与包装类、格斗游戏项目实战（gameTest） | [Day04.md](./Day04.md) |
 | Day05 | Math/System/Object 工具类、包装类、BigDecimal、Web 前端入门（HTML/CSS/Flex） | [Day05.md](./Day05.md) |
+| Day06 | HTML 表单（form/input/select/table）、JavaScript 入门 | [Day06.md](./Day06.md) |
+| Day07 | JavaScript 基础语法、DOM 操作、事件监听、JS 模块化 | [Day07.md](./Day07.md) |
+| Day08 | Vue.js 框架、Tlias 实战、Ajax/Axios、Vue 生命周期、Maven、软件测试 | [Day08.md](./Day08.md) |
 
 ## 学习路线
 
