@@ -14,6 +14,7 @@
 | Day06 | HTML 表单（form/input/select/table）、JavaScript 入门 | [Day06.md](./Day06.md) |
 | Day07 | JavaScript 基础语法、DOM 操作、事件监听、JS 模块化 | [Day07.md](./Day07.md) |
 | Day08 | Vue.js 框架、Tlias 实战、Ajax/Axios、Vue 生命周期、Maven、软件测试 | [Day08.md](./Day08.md) |
+| Day09 | JUnit 单元测试、SpringBoot Web 入门、HTTP 协议 | [Day09.md](./Day09.md) |
 
 ## 学习路线
 
