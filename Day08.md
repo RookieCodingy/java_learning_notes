@@ -1,5 +1,4 @@
-
-Vue.js 前端框架、Tlias 实战项目、Ajax/Axios、Vue 生命周期、Maven 构建工具、软件测试
+# Day08 - Vue.js框架、Ajax、Maven基础
 
 ---
 
