@@ -15,6 +15,8 @@
 | Day07 | JavaScript 基础语法、DOM 操作、事件监听、JS 模块化 | [Day07.md](./Day07.md) |
 | Day08 | Vue.js 框架、Tlias 实战、Ajax/Axios、Vue 生命周期、Maven、软件测试 | [Day08.md](./Day08.md) |
 | Day09 | JUnit 单元测试、SpringBoot Web 入门、HTTP 协议 | [Day09.md](./Day09.md) |
+| Day10 | HTTP 响应、Web 三层架构、IOC 与 DI、Spring 注解、依赖注入 | [Day10.md](./Day10.md) |
+| Day11 | 数据库与 MySQL、SQL（DDL/DML/DQL）、JDBC、正则表达式、查找算法 | [Day11.md](./Day11.md) |
 
 ## 学习路线
 
