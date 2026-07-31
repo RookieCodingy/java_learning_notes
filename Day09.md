@@ -1,13 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 0ddefa44096eb1c4c9ac899528312d52_dc7b91938b4411f1a642525400287e28
-    ReservedCode1: oJ9IeZwDhRixKLp6epf/hiVQvRYWludXuJdWcb5SSjcgT+bsxM2mfLRrXXzTEBYbJCowB0mk/yHkrloO96ou8TNajRnu2Awm/iyFPNZzeZyGROymo2GcAj5Aa4Pkf1Ry1FH7uHug23w+Bv4U5rJ9TAB1Xtc8610dvNNujPAMazZqRB9UqJNF3l1ftb8=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 0ddefa44096eb1c4c9ac899528312d52_dc7b91938b4411f1a642525400287e28
-    ReservedCode2: oJ9IeZwDhRixKLp6epf/hiVQvRYWludXuJdWcb5SSjcgT+bsxM2mfLRrXXzTEBYbJCowB0mk/yHkrloO96ou8TNajRnu2Awm/iyFPNZzeZyGROymo2GcAj5Aa4Pkf1Ry1FH7uHug23w+Bv4U5rJ9TAB1Xtc8610dvNNujPAMazZqRB9UqJNF3l1ftb8=
----
 
 # Day09 - JUnit单元测试 & SpringBoot Web入门 & HTTP协议
 
@@ -385,4 +375,4 @@ public String login(String username, String password) {
 | SpringBoot Web | @RestController + @RequestMapping，起步依赖（Maven 依赖传递），内嵌 Tomcat 端口 8080 |
 | HTTP 协议 | 请求行/头/体 + 响应行/头/体，基于 TCP、一问一答、无状态，GET 参数拼 URL，POST 有请求体 |
 | 请求数据获取 | 服务器解析封装为 HttpServletRequest，通过方法参数注入 Controller |
-*（内容由AI生成，仅供参考）*
+
