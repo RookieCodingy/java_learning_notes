@@ -17,6 +17,8 @@
 | Day09 | JUnit 单元测试、SpringBoot Web 入门、HTTP 协议 | [Day09.md](./Day09.md) |
 | Day10 | HTTP 响应、Web 三层架构、IOC 与 DI、Spring 注解、依赖注入 | [Day10.md](./Day10.md) |
 | Day11 | 数据库与 MySQL、SQL（DDL/DML/DQL）、JDBC、正则表达式、查找算法 | [Day11.md](./Day11.md) |
+| Day12 | MyBatis 入门与增删改查、数据库连接池、XML 映射配置、SpringBoot 配置文件（properties/YAML） | [Day12.md](./Day12.md) |
+| Day13 | Tlias 前后端联调、RESTful 规范、参数接收、Nginx 反向代理、日志技术（Logback + SLF4J） | [Day13.md](./Day13.md) |
 
 ## 学习路线
 
