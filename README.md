@@ -19,6 +19,7 @@
 | Day11 | 数据库与 MySQL、SQL（DDL/DML/DQL）、JDBC、正则表达式、查找算法 | [Day11.md](./Day11.md) |
 | Day12 | MyBatis 入门与增删改查、数据库连接池、XML 映射配置、SpringBoot 配置文件（properties/YAML） | [Day12.md](./Day12.md) |
 | Day13 | Tlias 前后端联调、RESTful 规范、参数接收、Nginx 反向代理、日志技术（Logback + SLF4J） | [Day13.md](./Day13.md) |
+| Day14 | 多表关系（一对多/一对一/多对多）、外键约束、多表查询（内连接/外连接/子查询） | [Day14.md](./Day14.md) |
 
 ## 学习路线
 
