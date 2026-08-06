@@ -20,6 +20,8 @@
 | Day12 | MyBatis 入门与增删改查、数据库连接池、XML 映射配置、SpringBoot 配置文件（properties/YAML） | [Day12.md](./Day12.md) |
 | Day13 | Tlias 前后端联调、RESTful 规范、参数接收、Nginx 反向代理、日志技术（Logback + SLF4J） | [Day13.md](./Day13.md) |
 | Day14 | 多表关系（一对多/一对一/多对多）、外键约束、多表查询（内连接/外连接/子查询） | [Day14.md](./Day14.md) |
+| Day15 | PageHelper 分页、动态 SQL、事务管理、文件上传、阿里云 OSS 简介 | [Day15.md](./Day15.md) |
+| Day16 | 阿里云 OSS 文件上传、删除/修改员工、全局异常处理器、员工信息统计 | [Day16.md](./Day16.md) |
 
 ## 学习路线
 
