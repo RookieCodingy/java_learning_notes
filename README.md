@@ -22,6 +22,9 @@
 | Day14 | 多表关系（一对多/一对一/多对多）、外键约束、多表查询（内连接/外连接/子查询） | [Day14.md](./Day14.md) |
 | Day15 | PageHelper 分页、动态 SQL、事务管理、文件上传、阿里云 OSS 简介 | [Day15.md](./Day15.md) |
 | Day16 | 阿里云 OSS 文件上传、删除/修改员工、全局异常处理器、员工信息统计 | [Day16.md](./Day16.md) |
+| Day17 | 班级管理（CRUD+状态统计）、学员管理 POJO、DeletionNotAllowedException 异常 | [Day17.md](./Day17.md) |
+| Day18 | 登录认证、会话技术（Cookie/Session/Token）、JWT 令牌、过滤器 Filter、拦截器 Interceptor | [Day18.md](./Day18.md) |
+| Day19 | AOP（面向切面编程）、5种通知类型、切入点表达式、ThreadLocal | [Day19.md](./Day19.md) |
 
 ## 学习路线
 
