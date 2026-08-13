@@ -25,6 +25,9 @@
 | Day17 | 班级管理（CRUD+状态统计）、学员管理 POJO、DeletionNotAllowedException 异常 | [Day17.md](./Day17.md) |
 | Day18 | 登录认证、会话技术（Cookie/Session/Token）、JWT 令牌、过滤器 Filter、拦截器 Interceptor | [Day18.md](./Day18.md) |
 | Day19 | AOP（面向切面编程）、5种通知类型、切入点表达式、ThreadLocal | [Day19.md](./Day19.md) |
+| Day20 | SpringBoot 原理与 Bean 管理（配置优先级、Bean 的管理、自动配置原理） | [Day20.md](./Day20.md) |
+| Day21 | Maven 高级（分模块设计与开发、继承与聚合、私服） | [Day21.md](./Day21.md) |
+| Day22 | Linux 常用命令（文件目录操作、内容查看、编辑、搜索、进程与环境、重定向、网络配置） | [Day22.md](./Day22.md) |
 
 ## 学习路线
 
