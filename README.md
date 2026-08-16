@@ -28,6 +28,9 @@
 | Day20 | SpringBoot 原理与 Bean 管理（配置优先级、Bean 的管理、自动配置原理） | [Day20.md](./Day20.md) |
 | Day21 | Maven 高级（分模块设计与开发、继承与聚合、私服） | [Day21.md](./Day21.md) |
 | Day22 | Linux 常用命令（文件目录操作、内容查看、编辑、搜索、进程与环境、重定向、网络配置） | [Day22.md](./Day22.md) |
+| Day23 | 苍穹外卖项目入门：软件开发流程、项目分层对象、Nginx 反向代理与负载均衡、登录功能完善（MD5 加密）、Swagger 接口文档 | [Day23.md](./Day23.md) |
+| Day24 | 苍穹外卖公共字段填充与 AOP：BeanUtils 属性拷贝、ThreadLocal、SpringMVC 消息转换器、Builder、公共字段填充、方法签名与反射 | [Day24.md](./Day24.md) |
+| Day25 | 苍穹外卖 Day03 菜品模块：新增菜品（事务、主键回显）、阿里云 OSS 问题、菜品分页查询（左外连接/逻辑外键）、删除菜品（动态 SQL）、修改菜品（多表操作） | [Day25.md](./Day25.md) |
 
 ## 学习路线
 
