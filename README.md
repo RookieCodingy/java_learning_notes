@@ -31,6 +31,9 @@
 | Day23 | 苍穹外卖项目入门：软件开发流程、项目分层对象、Nginx 反向代理与负载均衡、登录功能完善（MD5 加密）、Swagger 接口文档 | [Day23.md](./Day23.md) |
 | Day24 | 苍穹外卖公共字段填充与 AOP：BeanUtils 属性拷贝、ThreadLocal、SpringMVC 消息转换器、Builder、公共字段填充、方法签名与反射 | [Day24.md](./Day24.md) |
 | Day25 | 苍穹外卖 Day03 菜品模块：新增菜品（事务、主键回显）、阿里云 OSS 问题、菜品分页查询（左外连接/逻辑外键）、删除菜品（动态 SQL）、修改菜品（多表操作） | [Day25.md](./Day25.md) |
+| Day30 | 微信支付（支付流程、相关代码开发）、SpringTask 任务调度（cron 表达式） | [Day30.md](./Day30.md) |
+| Day31 | WebSocket（与 HTTP 对比、应用场景）、数据统计与报表（营业额统计、用户统计） | [Day31.md](./Day31.md) |
+| Day32 | Apache POI（读/写操作）、苍穹外卖项目收尾（架构与基础设施、核心业务问答） | [Day32.md](./Day32.md) |
 
 ## 学习路线
 
