@@ -34,6 +34,8 @@
 | Day30 | 微信支付（支付流程、相关代码开发）、SpringTask 任务调度（cron 表达式） | [Day30.md](./Day30.md) |
 | Day31 | WebSocket（与 HTTP 对比、应用场景）、数据统计与报表（营业额统计、用户统计） | [Day31.md](./Day31.md) |
 | Day32 | Apache POI（读/写操作）、苍穹外卖项目收尾（架构与基础设施、核心业务问答） | [Day32.md](./Day32.md) |
+| Day33 | Redis 入门：SQL 与 NoSQL 对比、Redis 特性与安装（Ubuntu/CentOS）、启动验证、安全配置、Windows 连接虚拟机中的 Redis | [Day33.md](./Day33.md) |
+| Day34 | Redis 的 Java 客户端（Jedis 连接池、SpringDataRedis 序列化）、MyBatis-Plus 知识点、基于 Redis 的登录校验（hm-dianping 实战） | [Day34.md](./Day34.md) |
 
 ## 学习路线
 
