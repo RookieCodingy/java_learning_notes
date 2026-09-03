@@ -1,6 +1,5 @@
 # Java 学习 Day01：算法练习 + 面向对象基础
 
-> 源代码路径：`C:\Users\石天行\IdeaProjects\learning_test\src\com\tianxing\test`
 
 ---
 
