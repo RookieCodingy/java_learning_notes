@@ -4,8 +4,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/%E7%AC%94%E8%AE%B0-37_%E7%AF%87-2563EB?style=flat-square" alt="笔记 37 篇">
-  <img src="https://img.shields.io/badge/%E5%91%A8%E8%AE%B0-1_%E7%AF%87-16A34A?style=flat-square" alt="周记 1 篇">
-  <img src="https://img.shields.io/badge/%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0-Week01-EC4899?style=flat-square" alt="最近更新 Week01">
+  <img src="https://img.shields.io/badge/%E5%91%A8%E8%AE%B0-2_%E7%AF%87-16A34A?style=flat-square" alt="周记 2 篇">
+  <img src="https://img.shields.io/badge/%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0-Week02-EC4899?style=flat-square" alt="最近更新 Week02">
   <img src="https://img.shields.io/badge/License-MIT-6B7280?style=flat-square" alt="License MIT">
 </p>
 
@@ -105,6 +105,7 @@
 | 周次 | 内容 | 笔记 |
 | --- | --- | --- |
 | Week01 | 微服务入门：Nacos（服务注册/配置管理）、Akka Actor 异步框架与异构系统对接、Redis 接口幂等（SETNX + TTL + AOP 切面） | [Week01.md](./Week01.md) |
+| Week02 | 业务 bug 排查套路、消息通知体系抽象、参数校验改造、本地联调排障、Python 与 LLM Agent 入门、笔记工作流 | [Week02.md](./Week02.md) |
 
 ## 🚀 使用方式
 
